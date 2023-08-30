@@ -6,8 +6,6 @@ I'm excited to collaborate on projects that are challenging and innovative, and 
 
 📫 Reach Out: sarah@yack.email
 
-🎉 Fun Fact: I'm an enthusiast of [Your Favorite Game or Hobby]
-
 🛠️ Skills & Technologies
 
 Programming Languages:
