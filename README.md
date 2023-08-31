@@ -1,7 +1,7 @@
 🌟 About Me
 
-Hello! I'm an aspiring developer with a taste for Web Development, Game Development, and Machine Learning.
-I am currently building my skills in JavaScript, Python, HTML, and CSS, and I have an appetite for learning even more languages and technologies.
+Hello! I'm a student developer with a taste for Web Development, Game Development, and Machine Learning.
+I am currently building my skills in JavaScript, Python, HTML, and CSS, and I plan on learning even more languages and technologies.
 I'm excited to collaborate on projects that are challenging and innovative, and will help me improve my skills.
 
 📫 Reach Out: sarah@yack.email
