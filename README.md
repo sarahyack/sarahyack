@@ -10,7 +10,8 @@ Programming Languages:
   <ul><li>Javascript</li>
   <li>Python</li>
   <li>HTML5</li>
-  <li>CSS3</li></ul>
+  <li>CSS3</li>
+  <li>Java</li></ul>
 Development Tools:
   <ul><li>Git</li>
   <li>Eclipse IDE</li>
@@ -24,9 +25,11 @@ Development Tools:
     <li>Diving into Game Development Tools & Engines</li></ul>
 📦 Current Projects
 
-<ul><li>Weather Dashboard (paused): A user-friendly weather dashboard combining Python, HTML, CSS, and JavaScript.</li>
-<li>Macaw Classification w/Neural Network: A rudimentary classification machine learning project which mostly accurately predicts whether an image is a Macaw, a bird, or not a bird. (needs optimization </li>
-<li>Notepad-App: Working on my first Electron app—a simple notepad to jot down and display your thoughts!</li></ul>
+<ul><li>EscapeRoom: A simple text based escape room style puzzle game created with Java</li>
+<li>Chatbot: Simple NLP model for simple conversations and text generation. </li>
+<li>Notepad-App: A note-taking app with text-formatting options</li></ul>
+
+[Deep Learning Specialization Badge](https://www.credly.com/badges/eff5108e-76a6-4b1c-8fa3-7bc27c1cb95f/public_url)
 <!---
 sarahyack/sarahyack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
