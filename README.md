@@ -21,11 +21,11 @@ Development Tools:
 🌱 Current Learning Goals
 
 <ul><li>Mastering Machine Learning Techniques</li>
-    <li>Exploring Advanced JavaScript Frameworks</li>
+    <li>Exploring Various Software Creation Processes</li>
     <li>Diving into Game Development Tools & Engines</li></ul>
 📦 Current Projects
 
-<ul><li>EscapeRoom: A simple text based escape room style puzzle game created with Java</li>
+<ul><li>EscapeRoom: A GameMaker Project focused on making a pixel art escape room game.</li>
 <li>Chatbot: Simple NLP model for simple conversations and text generation. </li>
 <li>Notepad-App: A note-taking app with text-formatting options</li></ul>
 
