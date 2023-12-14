@@ -14,7 +14,7 @@ Programming Languages:
   <li>Java</li></ul>
 Development Tools:
   <ul><li>Git</li>
-  <li>Eclipse IDE</li>
+  <li>IntelliJ IDEA</li>
   <li>Visual Studio Code</li>
   <li>XAMPP</li></ul>
 
