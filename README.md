@@ -1,33 +1,10 @@
-🌟 About Me
+### WhoAmI
 
-Hello! I'm a student developer with a taste for Web Development, Game Development, and Machine Learning.
-I am currently building my skills in JavaScript, Python, HTML, and CSS, and I plan on learning even more languages and technologies.
-I'm excited to collaborate on projects that are challenging and innovative, and will help me improve my skills.
+Hello, thanks for checking out my profile! Who am I? Well, I'm an aspiring Indie Game Developer with a taste for machine learning and AI. I have a particular love for Godot as a game engine, and plan to use that as my primary tool in the future, and for all other non-game related projects, I love the Jetbrains IDEs!
 
-🛠️ Skills & Technologies
+Currently, my GitHub requires a bit of an overhaul as I've pivoted most of my priorities, but feel free to browse my repositories!
 
-Programming Languages:
-  <ul><li>Javascript</li>
-  <li>Python</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Java</li></ul>
-Development Tools:
-  <ul><li>Git</li>
-  <li>IntelliJ IDEA</li>
-  <li>Visual Studio Code</li>
-  <li>XAMPP</li></ul>
-
-🌱 Current Learning Goals
-
-<ul><li>Mastering Machine Learning Techniques</li>
-    <li>Exploring Various Software Creation Processes</li>
-    <li>Diving into Game Development Tools & Engines</li></ul>
-📦 Current Projects
-
-<ul><li>EscapeRoom: A GameMaker Project focused on making a pixel art escape room game.</li>
-<li>Chatbot: Simple NLP model for simple conversations and text generation. </li>
-<li>Notepad-App: A note-taking app with text-formatting options</li></ul>
+Thanks for checking in! Have a great day, 😉!
 
 [Deep Learning Specialization Badge](https://www.credly.com/badges/eff5108e-76a6-4b1c-8fa3-7bc27c1cb95f/public_url)
 <!---
